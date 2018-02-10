@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eed2cb87-a7f9-4ce7-8e0b-27ec4d520822" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MLModels/models/Regression/LinearRegression.py" afterPath="$PROJECT_DIR$/MLModels/models/Regression/LinearRegression.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MLModels/models/Regression/RegXG.py" afterPath="$PROJECT_DIR$/MLModels/models/Regression/RegXG.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MLModels/models/Regression/logistic_regression.py" afterPath="$PROJECT_DIR$/MLModels/models/Regression/logistic_regression.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MLModels/models/Regression/multiple_linear_regression.py" afterPath="$PROJECT_DIR$/MLModels/models/Regression/multiple_linear_regression.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MLModels/models/Regression/simple_linear_regression.py" afterPath="$PROJECT_DIR$/MLModels/models/Regression/simple_linear_regression.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MLModels/models/Clustering/kmeans.py" afterPath="$PROJECT_DIR$/MLModels/models/Clustering/kmeans.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LinearRegression.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LinearRegression.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MLModels/models/Regression/LinearRegression.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
@@ -26,6 +22,52 @@
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kmeans.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MLModels/models/Clustering/kmeans.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Regmodel_Valuation.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MLModels/models/Regression/Regmodel_Valuation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MLModels/models/Clustering/Readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Readme.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MLModels/models/Regression/Readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="16" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -102,6 +144,10 @@
         <option value="$PROJECT_DIR$/MLModels/models/Regression/multiple_linear_regression.py" />
         <option value="$PROJECT_DIR$/MLModels/models/Regression/RegXG.py" />
         <option value="$PROJECT_DIR$/MLModels/models/Regression/simple_linear_regression.py" />
+        <option value="$PROJECT_DIR$/MLModels/models/Clustering/kmeans.py" />
+        <option value="$PROJECT_DIR$/MLModels/models/Regression/Regmodel_Valuation.py" />
+        <option value="$PROJECT_DIR$/MLModels/models/Regression/Readme.md" />
+        <option value="$PROJECT_DIR$/MLModels/models/Clustering/Readme.md" />
       </list>
     </option>
   </component>
@@ -109,6 +155,9 @@
     <option name="x" value="-7" />
     <option name="width" value="1378" />
     <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -155,6 +204,13 @@
               <item name="Machine_Learning_Models" type="462c0819:PsiDirectoryNode" />
               <item name="MLModels" type="462c0819:PsiDirectoryNode" />
               <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="Clustering" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine_Learning_Models" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine_Learning_Models" type="462c0819:PsiDirectoryNode" />
+              <item name="MLModels" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
               <item name="Regression" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -173,6 +229,10 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sumohanty\OneDrive - ALLEGIS GROUP\Trainings\ML\Github\Machine_Learning_Models\MLModels\models\Regression" />
+      <recent name="C:\Users\sumohanty\OneDrive - ALLEGIS GROUP\Trainings\ML\Github\Machine_Learning_Models\MLModels\datasets" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\sumohanty\OneDrive - ALLEGIS GROUP\Trainings\ML\Github\Machine_Learning_Models\MLModels" />
       <recent name="C:\Users\sumohanty\OneDrive - ALLEGIS GROUP\Trainings\ML\Github\Machine_Learning_Models\MLModels\models" />
@@ -407,17 +467,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MLModels/models/Regression/ReadMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MLModels/Regression/multiple_linear_regression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-363">
@@ -535,6 +584,52 @@
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLModels/datasets/Advertising.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLModels/models/Clustering/kmeans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLModels/models/Regression/Regmodel_Valuation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLModels/models/Regression/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLModels/models/Clustering/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
