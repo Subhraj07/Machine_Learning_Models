@@ -14,7 +14,7 @@ from sklearn.metrics import explained_variance_score
 #Exploring the data
 
 # Read the data into a data frame
-data = pd.read_csv('kc_house_data.csv')
+data = pd.read_csv('MLModels/datasets/kc_house_data.csv')
 
 # Check the number of data points in the data set
 print(len(data))

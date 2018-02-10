@@ -3,8 +3,8 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 
-train = pd.read_csv('./dataset/Train_UWu5bXk.csv')
-test = pd.read_csv('./dataset/Test_u94Q5KV.csv')
+train = pd.read_csv('MLModels/datasets/Train_UWu5bXk.csv')
+test = pd.read_csv('MLModels/datasets/Test_u94Q5KV.csv')
 
 # lreg = LinearRegression()
 #
